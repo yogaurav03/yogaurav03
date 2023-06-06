@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogaurav03
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning react native and javascript
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on big companies
 - 📫 How to reach me my mail yogaurav03@gmail.com
 
